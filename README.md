@@ -2,7 +2,7 @@
 TicTacToe in C++
 
 Description:
-This GitHub project contains a simple yet captivating C++ implementation of the traditional Tic Tac Toe game. This code, created by Aimen Durrani, allows you to play the game with a friend straight in your console.
+This project contains a simple yet captivating C++ implementation of the traditional Tic Tac Toe game. This code, allows you to play the game with a friend straight in your console.
 
 Features:
 Play Tic Tac Toe with a companion, taking turns marking 'X' and 'O' on a 3x3 grid.
